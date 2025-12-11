@@ -2,8 +2,6 @@
 
 A modern, responsive weather application that fetches real-time data from the OpenWeatherMap API and displays dynamic weather info with an attractive UI. Built using HTML, CSS, and JavaScript.
 
-![Weather App Demo](assets/demo.png)
-
 ## 🚀 Features
 
 - 🔍 Search weather by **city name**
